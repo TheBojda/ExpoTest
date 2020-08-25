@@ -1,7 +1,8 @@
 {
+  "name": "ExpoTest",
+  "displayName": "ExpoTest",
   "expo": {
     "name": "ExpoTest",
-    "displayName": "ExpoTest",
     "slug": "ExpoTest",
     "version": "1.0.0",
     "orientation": "portrait",
